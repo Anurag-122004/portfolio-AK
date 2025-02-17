@@ -23,7 +23,7 @@ export default function Experience() {
     {
       company: "Metacrafters",
       location: "USA (Remote)",
-      period: "May, 2024 - Auguest, 2024",
+      period: "May, 2024 - August, 2024",
       role: "MERN + Blockchain Developer",
       responsibilities: [
         "Developed full-fledged Hyperledger Fabric blockchain applications",
